@@ -1,4 +1,6 @@
-# juz_amma
+# juz_ama_Tugas UTS
+IBNU_MAULANA_DWI_PUTRA
+2022804107
 
 A new Flutter project.
 
