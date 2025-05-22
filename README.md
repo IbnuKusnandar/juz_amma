@@ -2,7 +2,7 @@
 IBNU_MAULANA_DWI_PUTRA
 2022804107
 
-A new Flutter project.
+NAMA-NAMA JUZ AMMA
 
 ## Getting Started
 
