@@ -10,6 +10,11 @@ SEMESTER: 6A
 
 NAMA-NAMA JUZ AMMA
 
+![JUZ AMMA](https://github.com/user-attachments/assets/222c9906-3cdd-4f61-ae45-77b98fdab23b)
+
+![JUZ AMMA 2](https://github.com/user-attachments/assets/5d9227d4-d991-4d82-96a3-b00837fa8dcf)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
